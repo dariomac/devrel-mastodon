@@ -44,6 +44,7 @@ You can click on an individual handle to view the profile page, or copy the whol
 | [@technovangelist@fosstodon.org](https://fosstodon.org/@technovangelist) |
 | [@wraldpyk@fosstodon.org](https://fosstodon.org/@wraldpyk) |
 | [@xeraa@mastodon.social](https://mastodon.social/@xeraa) |
+| [@dariomac@mastodon.online](https://mastodon.online/@dariomac) |
 
 ## Mastodon tips and tricks
 
